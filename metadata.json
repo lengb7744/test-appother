@@ -1,0 +1,6 @@
+{
+  "name": "ប្រព័ន្ធដឹកជញ្ជូនម្ហូបទំនើប (DIU Smart Food Batch Ordering)",
+  "description": "ប្រព័ន្ធគ្រប់គ្រងការបញ្ជាទិញ និងបញ្ជូនម្ហូបអាហារទំនើបតាមម៉ោងកំណត់ (Cut-off Time & Batch Ordering System) សម្រាប់បុគ្គលិកស្ថាប័ន ភោជនីយដ្ឋានដៃគូ (KDS) និងអ្នកគ្រប់គ្រងប្រព័ន្ធ។",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
